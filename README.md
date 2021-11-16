@@ -12,8 +12,6 @@ The result should look something like this:
 
 ![result1](./images/todo_1_result.PNG)
 
-***Hint:*** You can use `document.querySelector` or `document.querySelectorAll` it will return the first element (with `querySelector`) or an array of elements (with `querySelectorAll`) within the document that mathes the specified selector.
-
 ## Todo 2
 ----
 Go to Harmont & Blaine product url [Chemise essentials en coton uni](https://www.harmontblaine.com/FR/essentials/chemise-essentials-en-coton-uni/CR1043N11759M).
@@ -26,8 +24,6 @@ Go to Harmont & Blaine product url [Chemise essentials en coton uni](https://www
 The result should look something like this:
 
 ![result2](./images/todo_2_result.PNG)
-
-***Hint:*** You can use `XMLHttpRequest` or `Ajax` or `fetch`.
 
 
 ## Todo 3
